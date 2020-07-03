@@ -65,7 +65,6 @@ public class MorseCodeConvert {
 		}
 			
 	}
-	//File Name: C:/Users/JRodr/Java/Workspace/MorseCode/src/TestFile.txt
 	public void convertFile(String file) {
 		File fileConvert = new File(file);
         try {
